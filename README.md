@@ -2,9 +2,9 @@
 
 Dự án đầu tiên của tôi
 
-Họ và Tên: Lê Quốc Thái
+Họ và Tên: Phạm Minh Triết
 
-Mã số Sinh viên: 25161196
+Mã số Sinh viên: 25161211
 
 Giới Thiệu: Sinh viên HCMUTE
 

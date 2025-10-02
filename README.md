@@ -2,9 +2,9 @@
 
 Dự án đầu tiên của tôi
 
-Họ và Tên: Lê Quốc Thái
+Họ và Tên: Phan Ngọc Anh Thư
 
-Mã số Sinh viên: 25161196
+Mã số Sinh viên: 25161205
 
 Giới Thiệu: Sinh viên HCMUTE
 

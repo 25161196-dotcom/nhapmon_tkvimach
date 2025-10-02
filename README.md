@@ -11,10 +11,11 @@
 
 \## 🔀 Link các Pull Request đã merge
 
-1\. 
+1\. https://github.com/25161196-dotcom/nhapmon_tkvimach/tree/feature_25161196
 
-2\. 
-3\.
+2\. https://github.com/25161196-dotcom/nhapmon_tkvimach/tree/feature_25161211
+
+3\.https://github.com/25161196-dotcom/nhapmon_tkvimach/tree/feature_25161205
 
 
 \ 👥 Thành viên và nhiệm vụ

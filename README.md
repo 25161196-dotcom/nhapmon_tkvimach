@@ -2,7 +2,7 @@
 
 Dự án đầu tiên của tôi
 
-Họ và Tên: Phan Ngọc Anh THư
+Họ và Tên: Phan Ngọc Anh Thư
 
 Mã số Sinh viên: 25161205
 
